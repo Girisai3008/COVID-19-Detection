@@ -1,0 +1,21 @@
+# GUI framework for the application
+PyQt5  
+
+# Essential scientific computing libraries
+numpy  
+pandas  
+
+# Machine Learning library for model training and evaluation
+scikit-learn  
+
+# Data visualization library
+matplotlib  
+
+# OpenCV for image processing (if used in graphs or UI elements)
+opencv-python  
+
+# SciPy for scientific computations and optimizations
+scipy  
+
+# MySQL connector for database interaction
+mysql-connector-python  
